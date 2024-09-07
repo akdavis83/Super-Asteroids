@@ -1,3 +1,13 @@
+# Super Asteroids
+
+Thrust forward and backward with the arrow keys.
+
+Thrust left with the A key. Thrust right with the F key.
+
+Rotate the ship with the left and right arrow keys.
+
+Shoot mega-sized red lasers with the space bar.
+
 p2.js
 =====
 
@@ -59,8 +69,7 @@ Examples showing how to use p2.js with your favorite renderer.
 * [Canvas: Sensors 2](http://schteppe.github.io/p2.js/examples/canvas/sensors2.html)
 * [Pixi.js: Box on plane](http://schteppe.github.io/p2.js/examples/pixijs/box.html)
 
-### Sample code
-The following example uses the [World](http://schteppe.github.io/p2.js/docs/classes/World.html), [Circle](http://schteppe.github.io/p2.js/docs/classes/Circle.html), [Body](http://schteppe.github.io/p2.js/docs/classes/Body.html) and [Plane](http://schteppe.github.io/p2.js/docs/classes/Plane.html) classes to set up a simple physics scene with a ball on a plane.
+
 
 ```js
 // Create a physics world, where bodies and constraints live
