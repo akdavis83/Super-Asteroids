@@ -6,7 +6,7 @@ Thrust left with the A key. Thrust right with the F key.
 
 Rotate the ship with the left and right arrow keys.
 
-Shoot mega-sized red lasers with the space bar.
+Shoot extra-large red lasers with the space bar.
 
 30,000 lives, infinite levels, beyond level 100 it is challenging to move due to too many asteroids.
 
